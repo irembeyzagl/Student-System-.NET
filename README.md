@@ -1,2 +1,2 @@
 # Student-System
-Student System with ADO.NET
+Student System with .NET
